@@ -227,7 +227,18 @@ This project was developed as part of my Deep Learning learning journey. I would
 - Publicly available image sources that were used to create the custom dataset.
 
 
----
+
+
+# 📁 Repository Structure
+
+```text
+AI-vs-Real-Image-Classifier/
+│
+├── Ai and real image prediction.ipynb    # CNN training notebook
+├── README.md                             # Project documentation
+├── LICENSE                               # MIT License
+└── requirements.txt                      # Python dependencies
+```
 
 # 👩‍💻 Author
 
