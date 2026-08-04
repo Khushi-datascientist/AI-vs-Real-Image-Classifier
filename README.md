@@ -246,6 +246,7 @@ AI-vs-Real-Image-Classifier/
 
 🎓 B.Tech in Artificial Intelligence & Data Science
 
-🔗 GitHub: https://github.com/<YOUR_GITHUB_USERNAME>
+### Connect with me
 
-💼 LinkedIn: https://www.linkedin.com/in/<YOUR_LINKEDIN_USERNAME>/
+- **GitHub:** https://github.com/Khushi-datascientist
+- **LinkedIn:** https://www.linkedin.com/in/itz-khushi
